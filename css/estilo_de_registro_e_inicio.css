@@ -1,0 +1,249 @@
+
+*{
+
+	margin: 0;
+	padding: 0;
+
+
+}
+.container{
+       height: 100%;
+       width: 100%;
+		background:url('../img/mar.jpg') no-repeat 0 -400px;
+	   background-position: center;
+	   background-size: cover;
+	   position: absolute;
+
+	  }
+
+.form-box{
+	width: 370px;
+	height: 455px;
+	position: relative;
+	margin: 6% auto;
+	background: #fff;
+	padding: 5px;
+	border-radius: 30px;
+
+}
+
+.button box{
+
+	position: relative;;
+	box-shadow: 0 0 20px 9px #e0e0e0;
+	border-radius: 30px;
+	transition: 0.8s;
+}
+
+
+.boton1{
+			height:38px;
+			cursor: pointer;
+			border: 0;
+			padding-left: 0;
+			padding-right: 0; 
+			color:#ffffff;
+			border-radius: 30px;
+			width: 150px;
+			margin:25px auto ;
+			position: relative;
+			background: linear-gradient( to right, rgba(233, 30, 99, 0.7), rgba(156, 39, 176, 0.7))
+    
+}
+
+#cajas{
+	margin-top:20px;
+}
+#cajas .caja{
+	float:left;
+	text-align:center;
+	width:30%;
+	padding:10px;
+}
+#cajas .caja img{
+	width:4px;
+	
+
+
+
+	header{
+
+		padding-top:10px;
+		padding-right: auto;
+		margin-left: 0px;
+		padding-bottom:0px;
+		min-height:70;
+		border-bottom: silver 15px solid;
+		border-image-source: url('../img/linea.jpg');
+		border-image-slice: 15;
+		
+		
+	  
+	  }
+	  
+	  header a{
+		 color:#ffffff;
+		 text-decoration:none;
+		 text-transform:uppercase;
+		 font-size:16px;
+	  }
+	  
+	  
+	  header li{
+		  
+		  display:inline ;
+		  
+		  padding:0px 0px 0px 30px;
+	  }
+	  
+	  
+	  header ul{
+		  
+		  display:inline ;
+		  
+		  padding:0px 0px 0px 0px;
+	  }
+	  
+	  header #marca{
+		  float:left;
+		  margin-left:70px;
+	  }
+	  header #marca h1{
+		  margin:0;
+	   
+	  }
+	  
+	  header nav{
+		  margin-top:0px;
+		  float:right;
+	  }
+	  
+	  
+	  
+	  header a:hover{
+		  color:#cccccc;
+		  margin-top:0px;
+		  font-weight:bold;
+	  }
+	  
+	  
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
